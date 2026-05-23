@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+
+data/names.txt
+results/*.csv
+
+.vscode/
