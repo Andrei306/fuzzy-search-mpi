@@ -67,7 +67,7 @@ Pentru rularea variantei secvențiale:
 ```
 python src/sequential.py
 ```
-Această variantă este folosită ca bază de comparație pentru implementarea paralelă.
+Aceasta este folosită ca bază de comparație pentru implementarea paralelă.
 
 ## Rulare paralel-distribuită MPI
 

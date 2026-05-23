@@ -92,6 +92,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-### To run: mpiexec -np 4 python src/mpi_search.py --query "Andrei Popescu" --threshold 0.85 --top-k 30
-### --top-k is optional
